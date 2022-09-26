@@ -1,2 +1,3 @@
-My first Readme
-I'm working with Shell to update my github repo.
+[master d7e5edd] My first commit
+ 2 files changed, 1 insertion(+), 1 deletion(-)
+ delete mode 100644 up_to_date
